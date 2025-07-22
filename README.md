@@ -20,7 +20,7 @@ This project presents an in-depth analysis of supermarket sales data using SQL. 
 
 ## Summary of Key Findings
 
-### 🏪 Branch Performance
+### Branch Performance
 - **Branch C** leads with total sales of **$110,568.86**
 - Followed by **Branch A** ($106,200.57) and **Branch B** ($106,198.00)
 
@@ -93,7 +93,7 @@ This analysis provides a clear view of sales trends, inventory efficiency, and p
 ---
 
 ## Contributions
-This project is authored and maintained by chris-asianzu.  
+This project is authored and maintained by Chris Benjamin Asianzu (chris-asianzu).  
 Feel free to fork, contribute, or discuss ideas via issues or pull requests.
 
 ---
